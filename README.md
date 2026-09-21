@@ -60,12 +60,12 @@ First-principles systems builder obsessed with dissecting how reality functions 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NIGHTMARE-personal&show_icons=true&theme=midnight-purple&bg_color=070b14&title_color=ddb568&text_color=e2e8f0&icon_color=ddb568&border_color=ddb56833&hide_border=false" alt="NIGHTMARE GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NIGHTMARE-personal&layout=compact&theme=midnight-purple&bg_color=070b14&title_color=ddb568&text_color=e2e8f0&border_color=ddb56833&hide_border=false" alt="Top Languages" width="48%" />
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=NIGHTMARE-personal&show_icons=true&theme=midnight-purple&bg_color=070b14&title_color=ddb568&text_color=e2e8f0&icon_color=ddb568&border_color=ddb56833&hide_border=false" alt="NIGHTMARE GitHub Stats" width="48%" />
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=NIGHTMARE-personal&layout=compact&theme=midnight-purple&bg_color=070b14&title_color=ddb568&text_color=e2e8f0&border_color=ddb56833&hide_border=false" alt="Top Languages" width="48%" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NIGHTMARE-personal&theme=midnight-purple&background=070b14&border=ddb56833&ring=ddb568&fire=ddb568&currStreakLabel=ddb568" alt="GitHub Streak" width="97%" />
+<img src="https://streak-stats.demolab.com/?user=NIGHTMARE-personal&theme=midnight-purple&background=070b14&border=ddb56833&ring=ddb568&fire=ddb568&currStreakLabel=ddb568" alt="GitHub Streak" width="97%" />
 
 </div>
 
