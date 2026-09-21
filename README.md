@@ -8,7 +8,7 @@
  Strip the layers until only mechanical truth remains."
 ```
 
-[![GitHub Followers](https://img.shields.io/github/followers/NIGHTMARE-personal?label=Followers&style=for-the-badge&logo=github&color=ddb568&logoColor=black)](https://github.com/NIGHTMARE-personal)
+[![Status](https://img.shields.io/badge/Status-Active_Deployments-ddb568?style=for-the-badge&logo=githubactions&logoColor=black)](https://github.com/NIGHTMARE-personal?tab=repositories)
 [![Public Repositories](https://img.shields.io/badge/Repositories-Sovereign_Systems-0ea5e9?style=for-the-badge&logo=git&logoColor=white)](https://github.com/NIGHTMARE-personal?tab=repositories)
 [![Architecture](https://img.shields.io/badge/Architecture-First--Principles-10b981?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/NIGHTMARE-personal)
 [![Security Posture](https://img.shields.io/badge/Security-Anti--Surveillance_%7C_Zero--Telemetry-rose?style=for-the-badge&logo=torproject&logoColor=white)](https://github.com/NIGHTMARE-personal)
